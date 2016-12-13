@@ -9,6 +9,7 @@
 
  See http://bugs.ruby-lang.org/issues/5244 for discussion.
 *********************************************************************/
+mijash
 void
 rb_sparc_flush_register_windows(void)
 {
